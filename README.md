@@ -1,3 +1,5 @@
+# Google Homepage but w/ No Backend
+
 This is a project to recreate the design of the Google homepage, using HTML and CSS.
 
 Here is the finished product
